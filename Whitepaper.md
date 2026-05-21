@@ -122,7 +122,7 @@ instead of speculative blockchain activity.
 
 # 5. Proof of Nature Authentication (PoNA)
 
-NatureChain introduces a next-generation participation mechanism called:
+NatureChain introduces a next-generation participation consensus mechanism called:PoNA , Which mines token ecofriendly without needs huge infrastructure and electricity consumptions.
 
 # Proof of Nature Authentication
 
